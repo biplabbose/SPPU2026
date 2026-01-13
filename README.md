@@ -14,7 +14,7 @@ https://www.imagwiki.nibib.nih.gov/physiome/jsim/download/win64
 
 Installation of JSim on Windows is straightforward. 
 Unpack the zipped folder that you downloaded in a suitable directory on your computer. 
-Inside that unpacked folder, you will find a sub-folder win64\bin (win32\bin) containing the file jsim.bat. Run that .bat file by double-clicking. The GUI of JSim will appear. You may create a shortcut of this .bat file on your desktop for easy access.
+Inside that unpacked folder, you will find a sub-folder `win64\bin` (`win32\bin`) containing the file `jsim.bat`. Run that `.bat` file by double-clicking. The GUI of JSim will appear. You may create a shortcut of this .bat file on your desktop for easy access.
 
 In case of any difficulty, please follow the instructions on the download page.
 
