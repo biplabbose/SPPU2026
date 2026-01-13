@@ -10,11 +10,11 @@ https://www.imagwiki.nibib.nih.gov/physiome/JSim/download
 Refer to the instructions on the JSim website for installation and usage details.
 
 If you are using a computer with the **Windows** operating system, download it from:
-https://www.imagwiki.nibib.nih.gov/physiome/jsim/download/win64 <br>
-To download the latest JSim, click on the link `Download the current public release:` and save the file on your computer. It is a compressed file (Zip).
-Installation of JSim on Windows is straightforward. 
+https://www.imagwiki.nibib.nih.gov/physiome/jsim/download/win64 <br><br>
+To download the latest JSim, click on the link `Download the current public release:` and save the file on your computer. It is a compressed file (Zip).<br>
+Installation of JSim on Windows is straightforward.<br>
 Unpack the zipped folder that you downloaded in a suitable directory on your computer. 
-Inside that unpacked folder, you will find a sub-folder `win64\bin` (`win32\bin`) containing the file `jsim.bat`. Run that `.bat` file by double-clicking. The GUI of JSim will appear. You may create a shortcut of this .bat file on your desktop for easy access.
+Inside that unpacked folder, you will find a sub-folder `win64\bin` (`win32\bin`) containing the file `jsim.bat`. Run that `.bat` file by double-clicking. The GUI of JSim will appear. You may create a shortcut of this .bat file on your desktop for easy access.<br>
 
 In case of any difficulty, please follow the instructions on the download page.
 
