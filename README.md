@@ -19,12 +19,12 @@ Inside that unpacked folder, you will find a sub-folder `win64\bin` (`win32\bin`
 In case of any difficulty, please follow the instructions on the download page.
 
 ## Help video
-You can watch the following YouTube video to get help on the installation and running of JSim. Watch from 7 min onwards:
+You can watch the following YouTube video for help with installing and running JSim. Watch from 7 min onwards:
 https://youtu.be/BongNOPGu10?si=4Yaoyn0eoBmTTzcH
 
 ## Model codes:
-The repository holds two models: Goodwin model 1 and Goodwin model 2. 
-JSim project files for these models are provided. These can be loaded on JSim and used without any modifications.
+The repository contains code for two models: Goodwin Model 1 and Goodwin Model 2. 
+JSim project file `goodwin.proj` contains both models. Download this `.proj` file and load it on JSim (`file > Open project file`). 
 The codes are also provided as text files. One can copy and use these codes and create new projects.
 
 
