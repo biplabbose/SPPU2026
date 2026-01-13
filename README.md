@@ -10,7 +10,7 @@ https://www.imagwiki.nibib.nih.gov/physiome/JSim/download
 Refer to the instructions on the JSim website for installation and usage details.
 
 If you are using a computer with the **Windows** operating system, download it from:
-https://www.imagwiki.nibib.nih.gov/physiome/jsim/download/win64
+https://www.imagwiki.nibib.nih.gov/physiome/jsim/download/win64 <br>
 To download the latest JSim, click on the link `Download the current public release:` and save the file on your computer. It is a compressed file (Zip).
 Installation of JSim on Windows is straightforward. 
 Unpack the zipped folder that you downloaded in a suitable directory on your computer. 
