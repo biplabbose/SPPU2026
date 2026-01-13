@@ -25,6 +25,6 @@ https://youtu.be/BongNOPGu10?si=4Yaoyn0eoBmTTzcH
 ## Model codes:
 The repository contains code for two models: Goodwin Model 1 and Goodwin Model 2. 
 JSim project file `goodwin.proj` contains both models. Download this `.proj` file and load it on JSim (`file > Open project file`). 
-The codes are also provided as text files. One can copy and use these codes and create new projects.
+The codes are also provided as text files (`.txt`). One can copy the code from these files, use them, and create new projects.
 
 
