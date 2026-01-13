@@ -4,7 +4,7 @@ This repository contains the code for the workshop/presentation on "Learning to 
 We use JSim to simulate dynamical systems modelled using systems of ODEs.
 
 ## Download and install JSim:
-JSim could be obtained from:
+JSim could be obtained from:<br>
 https://www.imagwiki.nibib.nih.gov/physiome/JSim/download
 
 Refer to the instructions on the JSim website for installation and usage details.
