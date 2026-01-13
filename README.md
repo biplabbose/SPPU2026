@@ -7,11 +7,11 @@ We use JSim to simulate dynamical systems modelled using systems of ODEs.
 JSim could be obtained from:
 https://www.imagwiki.nibib.nih.gov/physiome/JSim/download
 
-Check the instructions on the JSim website for installation and usage.
+Refer to the instructions on the JSim website for installation and usage details.
 
 If you are using a computer with the **Windows** operating system, download it from:
 https://www.imagwiki.nibib.nih.gov/physiome/jsim/download/win64
-
+To download the latest JSim, click on the link `Download the current public release:` and save the file on your computer. It is a compressed file (Zip).
 Installation of JSim on Windows is straightforward. 
 Unpack the zipped folder that you downloaded in a suitable directory on your computer. 
 Inside that unpacked folder, you will find a sub-folder `win64\bin` (`win32\bin`) containing the file `jsim.bat`. Run that `.bat` file by double-clicking. The GUI of JSim will appear. You may create a shortcut of this .bat file on your desktop for easy access.
